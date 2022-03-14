@@ -10,6 +10,13 @@
     
 }
 
+.page-item.active .page-link {  
+    background-color: gray !important;  
+    border-color: gray !important;  
+}
+
+
+
 
 img {
     width: 100%;
