@@ -4,17 +4,11 @@
     color: gray;
 }
 
-#row{
-    height: 169px ;
-    width: 300px;
-    
-}
 
 .page-item.active .page-link {  
     background-color: gray !important;  
     border-color: gray !important;  
 }
-
 
 
 
