@@ -10,7 +10,16 @@
     border-color: gray !important;  
 }
 
+#comment {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 950px;
 
+}
+
+#pie {
+    display: flex;
+}
 
 img {
     width: 100%;
